@@ -1,4 +1,6 @@
 # GoBot and BWSH Study Supplementary Materials
+This repository contains supplementary materials for the paper **Look at Them Go! Using an Autonomous Assistive GoBot to Encourage Movement Practice by Two Children with Motor Disabilities**, which is currently under review for Robotics Automation and Letters (RA-L). Materials include a video compilation and additional figures of survey results.
+
 Video attachment is a compilation of study clips demonstrating differences in interactions for both participants (P1 and P2) in the study when comparing session 1 (initial) and session 12 (final).
 
 Additional figures display survey ratings for the 3 components of the **Negative Attitudes towards Robots Scale (NARS)** (Syrdal et al. 2009) survey and the **Trust Perception Scale-HRI 14-item subscale (TPS-HRI)** (Schaefer 2016). These surveys were filled out by parents of both participants to understand their perceptions and trust levels of a robot being used as a component of their child's clinical care, but also to potentially use the same robot in the parents' homes.
@@ -19,6 +21,4 @@ NARS survey results showing the mean and standard deviation of parent responses 
 TPS-HRI survey results showing the mean and standard deviation of parent responses for both P1 and P2 to the 14-item subscale indicating their trust in the robot used for this study. The survey was administered to parents at the beginning and end of the study.
 - - - -
 
-This repository contains supplementary materials for the paper **Look at Them Go! Using an Autonomous Assistive GoBot to Encourage Movement Practice by Two Children with Motor Disabilities**, which is currently under review for Robotics Automation and Letters (RA-L). If you find this repository helpful, please cite our work: 
-
-"A. Helmi, T.-H. Wang, S. W. Logan, and N. T. Fitter. Look at Them Go! Using an Autonomous Assistive GoBot to Encourage Movement Practice by Two Children with Motor Disabilities. Under Review to Robotics and Automation Letters (RA-L). November 2024. IEEE"
+ If you find this repository helpful, please cite our work: "A. Helmi, T.-H. Wang, S. W. Logan, and N. T. Fitter. Look at Them Go! Using an Autonomous Assistive GoBot to Encourage Movement Practice by Two Children with Motor Disabilities. Under Review to Robotics and Automation Letters (RA-L). November 2024. IEEE"
