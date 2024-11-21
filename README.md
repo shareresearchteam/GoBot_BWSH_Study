@@ -1,4 +1,4 @@
-# GoBot and BWSH Study Supplementary Materials
+# GoBot and Body-Weight-Support-Harness Study Supplementary Materials
 This repository contains supplementary materials for the paper **Look at Them Go! Using an Autonomous Assistive GoBot to Encourage Movement Practice by Two Children with Motor Disabilities**, which is currently under review for Robotics Automation and Letters (RA-L). Materials include a video compilation and additional figures of survey results.
 
 Video attachment is a compilation of study clips demonstrating differences in interactions for both participants (P1 and P2) in the study when comparing session 1 (initial) and session 12 (final).
